@@ -6,10 +6,6 @@ import { useEffect } from "react";
 
 const imagePanels = [
   {
-    src: "/images/AImonica.mp4",
-    title: "AI Lore and Identity",
-  },
-  {
     src: "/images/FrensNetwork.jpg",
     title: "Network Alchemy",
     style: {
