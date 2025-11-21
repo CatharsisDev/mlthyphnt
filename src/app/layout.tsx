@@ -3,10 +3,10 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'multihyphenate | mlthyphnt',
-  description: 'web3 studio working with great humans across verticals like ai agents, culture chains, defi and more.',
+  description: 'Working with great humans across verticals like ai agents, culture chains, defi and more.',
   openGraph: {
     title: 'multihyphenate | mlthyphnt',
-    description: 'web3 studio working with great humans across verticals like ai agents, culture chains, defi and more.',
+    description: 'Working with great humans across verticals like ai agents, culture chains, defi and more.',
     images: [
       {
         url: 'https://www.mlthyphnt.xyz/images/thumbnail.jpeg',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'multihyphenate | mlthyphnt',
-    description: 'web3 studio working with great humans across verticals like ai agents, culture chains, defi and more.',
+    description: 'Working with great humans across verticals like ai agents, culture chains, defi and more.',
     images: ['https://picsum.photos/1200/600'],
     creator: '@mlthyphnt',
   }
